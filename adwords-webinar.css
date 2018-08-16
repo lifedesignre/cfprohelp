@@ -1,0 +1,29 @@
+button.css3button {
+    color: #000000;
+    background: #FEE300;
+    font-size: 30px;
+    border: 1px solid rgba(0,0,0,0.1);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2); 
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);
+    border-radius: 15px;
+    font-weight: bold;
+    text-align: center
+    font-family: Oswald, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 42px;
+    width:100% !important;
+    max-width:560px !important;
+    display:block !important;
+}
+ button.css3button i {
+    font-size: 28px;
+    padding-left: 18px;
+}
+ button.css3button:focus,button.css3button:hover {
+background: #FEE300;
+}
+
+button.css3button__body {
+    display: block !important;
+}
